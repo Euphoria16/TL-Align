@@ -3,7 +3,7 @@
 
 This is the pytorch implementation for the paper: *Token-Label Alignment for Vision Transformers*. 
 
-> [Han Xiao\*](https://scholar.google.com/citations?user=N-u2i-QAAAAJ&hl=en), [Wenzhao Zheng\*](https://scholar.google.com/citations?user=LdK9scgAAAAJ&hl=en), [Zheng Zhu](http://www.zhengzhu.net/), [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/), and [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1)
+> [Han Xiao\*](https://scholar.google.com/citations?user=N-u2i-QAAAAJ&hl=en), [Wenzhao Zheng\*](https://scholar.google.com/citations?user=LdK9scgAAAAJ&hl=en), [Zheng Zhu](http://www.zhengzhu.net/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), and [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)
 
 ![overview](assets/overview.png)
 
