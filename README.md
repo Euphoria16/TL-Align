@@ -1,7 +1,10 @@
 
 # Token-Label Alignment for Vision Transformers
+[Paper](https://arxiv.org/abs/2210.06455)
 
 This is the pytorch implementation for the paper: *Token-Label Alignment for Vision Transformers*. 
+
+
 
 > [Han Xiao\*](https://scholar.google.com/citations?user=N-u2i-QAAAAJ&hl=en), [Wenzhao Zheng\*](https://scholar.google.com/citations?user=LdK9scgAAAAJ&hl=en), [Zheng Zhu](http://www.zhengzhu.net/), [Jie Zhou](https://scholar.google.com/citations?user=6a79aPwAAAAJ&hl=en&authuser=1), and [Jiwen Lu](http://ivg.au.tsinghua.edu.cn/Jiwen_Lu/)
 
@@ -103,6 +106,7 @@ If you find this project useful in your research, please cite:
 @article{xiao2022token,
     title={Token-Label Alignment for Vision Transformers},
     author={Xiao, Han and Zheng, Wenzhao and Zhu, Zheng and Zhou, Jie and Lu, Jiwen},
+    journal={arXiv preprint arXiv:2210.06455},
     year={2022}
 }
 ````
