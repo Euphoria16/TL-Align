@@ -1,5 +1,5 @@
 
-# Token-Label Alignment for Vision Transformers
+# Token-Label Alignment for Vision Transformers (ICCV 2023)
 [Paper](https://arxiv.org/abs/2210.06455)
 
 This is the pytorch implementation for the paper: *Token-Label Alignment for Vision Transformers*. 
